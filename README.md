@@ -1,7 +1,7 @@
 # Login-System
 JavaFX app for user login and registration with BCrypt password hashing. Includes a secure backend with SQL database integration and a user-friendly interface. Handles user authentication and account creation with hashed passwords for enhanced security.
 # How it Works
-
+https://github.com/user-attachments/assets/a9881dfd-2f42-40bc-9389-98180c7b8ded
 
 
 This Java application is a basic login and registration system using JavaFX for the user interface, JDBC for database interaction, and BCrypt for password hashing.
